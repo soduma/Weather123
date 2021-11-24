@@ -14,6 +14,7 @@
 		A0F7751C274E11750073DCA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0F7751B274E11750073DCA9 /* Assets.xcassets */; };
 		A0F7751F274E11750073DCA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0F7751D274E11750073DCA9 /* LaunchScreen.storyboard */; };
 		A0F77527274E13A10073DCA9 /* WeatherInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F77526274E13A10073DCA9 /* WeatherInformation.swift */; };
+		A0F77529274E225A0073DCA9 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F77528274E225A0073DCA9 /* ErrorMessage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A0F7751E274E11750073DCA9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0F77520274E11750073DCA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0F77526274E13A10073DCA9 /* WeatherInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherInformation.swift; sourceTree = "<group>"; };
+		A0F77528274E225A0073DCA9 /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A0F77516274E11730073DCA9 /* ViewController.swift */,
 				A0F77518274E11730073DCA9 /* Main.storyboard */,
 				A0F77526274E13A10073DCA9 /* WeatherInformation.swift */,
+				A0F77528274E225A0073DCA9 /* ErrorMessage.swift */,
 				A0F7751B274E11750073DCA9 /* Assets.xcassets */,
 				A0F7751D274E11750073DCA9 /* LaunchScreen.storyboard */,
 				A0F77520274E11750073DCA9 /* Info.plist */,
@@ -143,6 +146,7 @@
 			files = (
 				A0F77517274E11730073DCA9 /* ViewController.swift in Sources */,
 				A0F77527274E13A10073DCA9 /* WeatherInformation.swift in Sources */,
+				A0F77529274E225A0073DCA9 /* ErrorMessage.swift in Sources */,
 				A0F77513274E11730073DCA9 /* AppDelegate.swift in Sources */,
 				A0F77515274E11730073DCA9 /* SceneDelegate.swift in Sources */,
 			);

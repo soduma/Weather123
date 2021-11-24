@@ -97,6 +97,7 @@
                         <outlet property="citiNameLabel" destination="TGb-aV-w9Q" id="Sxl-kY-3Sw"/>
                         <outlet property="maxLabel" destination="csN-i5-RBV" id="ZVW-2o-UXQ"/>
                         <outlet property="minLabel" destination="kob-Lw-w8O" id="6zU-i3-KEE"/>
+                        <outlet property="stackView" destination="0Xf-tG-TeG" id="iUw-tT-0bo"/>
                         <outlet property="temperatureLabel" destination="Vkj-d5-aCw" id="B7Q-bZ-BAd"/>
                         <outlet property="textField" destination="6NK-Vp-tYi" id="wE3-8J-OKC"/>
                         <outlet property="weatherLabel" destination="IiL-qo-vtB" id="GOF-UY-2IN"/>
